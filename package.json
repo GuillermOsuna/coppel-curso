@@ -1,0 +1,22 @@
+{
+  "name": "curso-vue",
+  "version": "1.0.0",
+  "description": "Curso de vue 22 de abril 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test",
+    "algo"
+  ],
+  "author": "Guillermo Osuna",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "2.6.10"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "jest": "^24.7.1"
+  }
+}
