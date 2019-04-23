@@ -13,6 +13,7 @@
   "author": "Guillermo Osuna",
   "license": "MIT",
   "dependencies": {
+    "@vue/cli": "^3.6.3",
     "vue": "2.6.10"
   },
   "devDependencies": {
